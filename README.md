@@ -1,4 +1,4 @@
-# R-TemporalAssociationRules-HierarchicalClustering-DynamicTimeWarping-DBNs
+# R code -TemporalAssociationRules-HierarchicalClustering-DynamicTimeWarping-DBNs
 
 R - Temporal Association Rules Discovery - Evaluation - Hierarchical Clustering - Dynamic Time Warping - Dynamic Bayesian Network
 
